@@ -1,5 +1,38 @@
 # Biconomy-Graph-starter-kit
 
+## Overview
+
+Welcome to the Biconomy Graph Integration Starter Kit! This README provides a guide to help developers build their own Subgraph and integrate it with Biconomy. By following the instructions in this repository, you will be able to quickly set up a Subgraph and leverage Biconomy's powerful features for seamless transaction processing and gasless transactions.
+
+## Getting Started
+
+To begin, navigate to the "bic" folder in this repository. Here, you'll find a template and the necessary components to start building your Subgraph.
+
+## Building Your Subgraph
+
+Follow these steps to build your Subgraph and integrate it with Biconomy:
+
+1. Clone this repository: Start by cloning this starter kit repository to your local machine.
+
+2. Navigate to the "bic" folder: Enter the "bic" folder to access the template and components for Biconomy integration.
+
+3. Set up your Subgraph: Use the template provided to set up your Subgraph. Customize it according to your project's needs and data sources. You can build your own subgraph or use existing subgraphs from the Subgraph Studio
+
+4. Integrate with Biconomy's smart contract addresses. (as mentioned in the bic template)
+
+6. Deploy your Subgraph: Once you're satisfied with the functionality and testing, deploy your Subgraph and Biconomy-integrated smart contracts.
+
+## Resources
+
+For additional information and resources, refer to the following:
+
+- [Biconomy Documentation](https://docs.biconomy.io/): Detailed documentation on Biconomy's features and integration guides.
+
+- [The Graph Documentation](https://thegraph.com/docs/): Comprehensive documentation on The Graph protocol.
+
+Happy building!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Start off with `npm install`
 
