@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@biconomy/account": "^3.0.0-alpha.0",
+    "@biconomy/bundler": "^3.0.0-alpha.0",
+    "@biconomy/common": "^3.0.0-alpha.0",
     "@biconomy/core-types": "^2.0.2",
     "@biconomy/particle-auth": "^2.0.1",
     "@biconomy/smart-account": "^2.0.2",
