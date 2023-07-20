@@ -118,7 +118,7 @@ function App() {
 
   return (
     <main className="App">
-      <h1>Biconomy ↔ Particle Auth</h1>
+      <h1>Biconomy ↔ The Graph </h1>
       <button onClick={!account ? connect : disconnect} disabled={disabled}>
         {!account ? "Connect Wallet" : "Disconnect Wallet"}
       </button>
